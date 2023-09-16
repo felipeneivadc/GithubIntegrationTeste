@@ -57,7 +57,7 @@ LoginScreen As screen:
         RadiusTopLeft: =44.5
         RadiusTopRight: =44.5
         Size: =18
-        Text: ="Teste 123"
+        Text: ="Vídeo 123"
         Width: =485
         X: =77
         Y: =424
